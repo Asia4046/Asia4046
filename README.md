@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wassup!+👋;+I'm+Nilesh@A22!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on ASTRA ENGINE<br><br>🌱 I’m currently learning C#, C++, C, Next.JS<br><br>👯 I’m looking to collaborate on Miruro No Kuon<br><br>🤝 I’m looking for help with Game Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about react, bash, C, C++, C#<br><br>📫 How to reach me kirito234875@gmail.com<br><br>⚡ Fun fact U are living in a simulation
