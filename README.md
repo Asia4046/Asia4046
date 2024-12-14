@@ -5,7 +5,7 @@
 <h3 align="center">A passionate backend developer </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on ASTRA ENGINE<br><br>🌱 I’m currently learning C#, C++, C, Next.JS<br><br>👯 I’m looking to collaborate on Miruro No Kuon<br><br>🤝 I’m looking for help with Game Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about react, bash, C, C++, C#<br><br>📫 How to reach me kirito234875@gmail.com<br><br>⚡ Fun fact U are living in a simulation
+🔭 I’m currently working on ASTRA ENGINE<br><br>🌱 I’m currently learning C#, C++, C, Next.JS<br><br>👯 I’m looking to collaborate on Miruro No Kuon<br><br>🤝 I’m looking for help with Game Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about react, bash, C, C++, C#<br><br>📫 How to reach me kirito234875@gmail.com, Discord UserName: itskazutokun<br><br>⚡ Fun fact U are living in a simulation
 
 
 ## 🌐 Socials:
