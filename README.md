@@ -5,8 +5,7 @@
 <h3 align="center">A fellow backend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Project RC](https://github.com/Asia4046/projectrc-api) <br><br>🌱 I’m currently learning C#, C++, C, Next.JS<br><br>🤝 I’m looking for help with Web Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about react, bash, C, C++, C#<br><br>📫 How to reach me kirito234875@gmail.com, Discord UserName: itskazutokun<br><br>⚡ Fun fact U are living in a simulation
-
+🔭 I’m currently working on [Project RC](https://github.com/Asia4046/projectrc-api) <br><br>🌱 I’m currently learning C#, C++, C, Next.JS<br><br>🤝 I’m looking for help with Web Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about react, bash, C, C++, C#<br><br>📫 How to reach me kirito234875@gmail.com, Discord UserName: itskazutokun<br>
 
 ## 🌐 Socials:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1084085230316556339?showDisplayName=true&idleMessage=I%20Am%20A%20JEE%20Aspirant%20Looking%20To%20Get%20Into%20%20IIT%20Madras)](https://discord.com/users/1084085230316556339)
