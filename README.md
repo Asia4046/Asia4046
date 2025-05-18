@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [Project RC](https://github.com/Asia4046/projectrc-api) <br><br>🌱 I’m currently learning C#, C++, C, Next.JS<br><br>🤝 I’m looking for help with Web Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about react, bash, C, C++, C#<br><br>📫 How to reach me kirito234875@gmail.com, Discord UserName: itskazutokun<br>
 
-## 🌐 DIscord:
+## 🌐 Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1084085230316556339?showDisplayName=true&theme=dark&bg=2C2C2C)](https://discord.com/users/1084085230316556339)
 
 # 💻 Tech Stack:
