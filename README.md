@@ -5,7 +5,7 @@
 <h3 align="center">A fellow low-level & backend developer from Tamil Nadu, India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on My Programming Basics<br><br>🌱 I’m currently learning C, C++<br><br>🤝 I’m looking for help with Web Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about bash, C, C++<br><br>📫 How to reach me kirito234875@gmail.com, Discord UserName: itskazutokun<br><br>I LOVE LINUX<br><br>`No one is greater than anyone, for I am greater to myself`<br>
+🔭 I’m currently working on My Programming Basics<br><br>🌱 I’m currently learning C, C++<br><br>🤝 I’m looking for help with Web Dev<br><br>👨‍💻 All of my projects are available at #<br><br>💬 Ask me about bash, C, C++<br><br>📫 How to reach me kirito234875@gmail.com, Discord UserName: itskazutokun<br><br>I🐧 LOVE LINUX<br><br>`💬 No one is greater than anyone, for I am greater to myself`<br>
 
 ## 🌐 Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1084085230316556339?showDisplayName=true&theme=dark&bg=2C2C2C)](https://discord.com/users/1084085230316556339)
