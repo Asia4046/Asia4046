@@ -5,7 +5,7 @@
 <h3 align="center">A fellow low-level & backend developer from Tamil Nadu, India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a cmdline chess program made using python♟️<br><br>🌱 I’m currently learning C, C++<br><br>🤝 I’m looking for help with Web Dev<br><br>💬 Ask me about bash, C, C++<br><br>📫 How to reach me, Discord UserName: itskazutokun<br><br>🐧 I LOVE LINUX<br><br>💬 "The cost of procrastination is the life you could've lived"
+🔭 I’m currently working on a cmdline chess program made using python♟️<br><br>🌱 I’m currently learning C, C++<br><br>🤝 I’m looking for help with Web Dev<br><br>💬 Ask me about bash, C, C++<br><br>📫 How to reach me, Discord UserName: itskajukatli<br><br>🐧 I LOVE LINUX<br><br>💬 "The cost of procrastination is the life you could've lived"
 
 
 ## 🌐 Socials:
